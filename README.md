@@ -44,10 +44,11 @@
 
 ---
 
----
-
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=yousef-isaifan&theme=dracula&bg_color=0d1117&hide_border=true" />
+</div> -->
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yousef-isaifan&theme=github_dark" />
 </div>
 
 ---
