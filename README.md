@@ -44,9 +44,10 @@
 
 ---
 
+---
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yousef-isaifan&show_icons=true&theme=dracula" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yousef-isaifan&layout=compact&theme=dracula" height="150" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yousef-isaifan&theme=dracula&bg_color=0d1117&hide_border=true" />
 </div>
 
 ---
